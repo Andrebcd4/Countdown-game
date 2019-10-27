@@ -20,8 +20,7 @@ if __name__ == "__main__":
             print("Time:", datetime.datetime.now() - date)
             print("~" * 20)
 
-        #loop = asyncio.get_event_loop()
-        #loop.run_until_complete(test1(game1))
+        asyncio.get_event_loop().run_until_complete(test1(game1))
         test2(game2)
 
     timeit(AsyncNumberGame([75, 50, 9, 1, 4, 2], 777), NumberGame([100, 75, 10, 6, 7, 10], 363))
