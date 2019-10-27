@@ -1,6 +1,5 @@
 from itertools import combinations as comb
 from itertools import permutations as perm
-import asyncio
 import enchant
 
 
