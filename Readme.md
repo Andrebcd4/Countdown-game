@@ -60,4 +60,4 @@ You can still use `bad_search` to find all words, also you can reverse search wi
 ```
 
 ### Mentions
-__Thanks to @painor (<a href="https://github.com/painor">Github:painor</a>) and @Zacci (<a href="https://github.com/commitZac">Github:commitZac</a>) from telethonofftopic telegram chat for ~~writing code for me and fixing mine~~ helping much to implement this module!__
+__Thanks to @painor (<a href="https://github.com/painor">Github:painor</a>) and *another guy* from telethonofftopic telegram chat for ~~writing code for me and fixing mine~~ helping much to implement this module!__
